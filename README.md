@@ -1,12 +1,12 @@
 # Hi there 👋
 
-I'm **yiatzz** and mainly a Java Developer!<br>
-Currently, I'm specialized in creating scalable Backend systems and have skills in other areas 😄
+Meu nome é **Diogo** e eu programo em Java principalmente!<br>
+Atualmente trabalho como free-lancer desenvolvendo plugins para Minecraft 😄
 
-My main goal is to create systems that are simple but scalable at the same time, allowing easy maintenance and future upgrades.<br>
-🔭 I’m currently working as a Free-Lancer developing minecraft plugins<br>
-⚡ Fun fact: I've started programming with 15 years old trying to create my own Minecraft server!
+⚡ Fun fact: Eu comecei a programar com 15 anos tentando criar meu servidor de minecraft!
 
-### 📫 How to reach me:
+![yiatzz's github stats](https://github-readme-stats.vercel.app/api?username=yiatzz&count_private=true&theme=radical)
+
+### 📫 Como me contactar:
   - [@yiatzz](https://twitter.com/yiatzz)
   - Discord: yiatzz#7584
