@@ -7,4 +7,4 @@ Atualmente trabalho como free-lancer desenvolvendo plugins para Minecraft 😄
 
 ### 📫 Como me contactar:
   - [@yiatzz](https://twitter.com/yiatzz)
-  - Discord: yiatzz#7584
+  - Discord: yiatzz#0171
