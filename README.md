@@ -7,4 +7,4 @@ Atualmente trabalho na Rede Fantasy (discord.gg/redefantasy) 😄
 
 ### 📫 Como me contactar:
   - [@yiatzz](https://twitter.com/yiatzz)
-  - Discord: yiatzz#0171
+  - Discord: yiatzz#5719
