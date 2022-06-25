@@ -4,4 +4,4 @@
 ✅ Java, JavaScript e PHP
 
 ### 📫 Como me contactar:
-  - Discord: y1atz#5719
+  - Discord: y1atz#3266
